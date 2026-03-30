@@ -3,8 +3,7 @@ pandas
 numpy
 plotly
 torch
-torchaudio
-soundfile
+rdkit
 biopython
 scikit-learn
 matplotlib
