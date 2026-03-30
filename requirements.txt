@@ -7,3 +7,5 @@ rdkit
 biopython
 scikit-learn
 matplotlib
+libxrender1
+libxext6
